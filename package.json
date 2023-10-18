@@ -160,7 +160,7 @@
     "@types/ip-regex": "4.1.1",
     "@types/jsdom": "21.1.2",
     "@types/json-bigint": "1.0.1",
-    "@types/koa": "2.13.8",
+    "@types/koa": "2.13.10",
     "@types/koa-basic-auth": "2.0.4",
     "@types/koa-favicon": "2.0.21",
     "@types/koa-mount": "4.0.2",
